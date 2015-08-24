@@ -1,6 +1,6 @@
 {
   "name": "same-members",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "If two collections have the same members",
   "main": "index.js",
   "scripts": {
