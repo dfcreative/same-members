@@ -20,3 +20,5 @@ assert(same(new Map([[1, o]]) , new Map([[1, o]]) ));
 assert(same(new Set([o]) , new Map([[1, o]]) ));
 
 assert(same(new Set([1,2,3]), [1,2,3]));
+
+assert(!same([1,2,3], undefined));
